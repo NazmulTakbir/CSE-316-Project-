@@ -17,5 +17,5 @@ ___
 | ----------------- | ------------------------ |
 | [Nazmul Takbir](https://github.com/NazmulTakbir)     | nazmultakbir98@gmail.com |
 | [Saif Ahmed Khan](https://github.com/ansakib) | ksaifahmed4@gmail.com      |
-| [Sihat Afnan](https://github.com/ansakib) | sihatafnan15.9.1997@gmail.com      |
+| [Sihat Afnan](https://github.com/AfnanCSE98) | sihatafnan15.9.1997@gmail.com      |
 
