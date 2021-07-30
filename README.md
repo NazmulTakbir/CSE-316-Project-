@@ -5,7 +5,7 @@ We developed this project for our CSE 316 course on Microprocessors, Microcontro
 Our project was supervised by [Md. Tareq Mahmood](https://sites.google.com/view/mdtareqmahmood/) - Lecturer at Department of CSE, BUET
 ___
 ### Related Resources :
-[Project Report](https://www.youtube.com/watch?v=c8J_XOOHVkg)
+[Project Report](https://github.com/NazmulTakbir/CSE-316-Project-/blob/main/Project%20Report.pdf)
 
 [Code for the Android App](https://github.com/ksaifahmed/the_stick_app)
 
