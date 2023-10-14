@@ -16,7 +16,7 @@ Click [here](https://youtu.be/c8J_XOOHVkg) to see the video on YouTube.
 
 | Name              | Email                    |
 | ----------------- | ------------------------ |
-| [Nazmul Takbir](https://github.com/NazmulTakbir)     | takbir.nazmul@gmail.com |
+| [Nazmul Takbir](https://nazmultakbir.github.io/)     | takbir.nazmul@gmail.com |
 | [Saif Ahmed Khan](https://github.com/ksaifahmed) | ksaifahmed4@gmail.com      |
 | [Sihat Afnan](https://github.com/AfnanCSE98) | sihatafnan15.9.1997@gmail.com      |
 
